@@ -1,7 +1,7 @@
  {
-    "NAME": ["Xu So Dieu Ky", "Thanh Pho Hoan My", "Thanh Pho Dieu Ky"],
+    "NAME": ["List Server", "Avatar 2K", "Avatar 2ME"],
     "IP": ["112.213.85.102", "112.213.85.101"],
-    "PORT": [19128, 19128],
+    "PORT": [19128, 19129],
     "dataUrls": [
       "http://teamobi.com/srvips/avatar2.txt",
       "http://trochoididong.us/srvips/avatar_C.txt"
