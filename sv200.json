@@ -1,14 +1,15 @@
 {
-  "servers": [
-    {
-      "name": "Xu So Dieu Ky",
-      "ip": "112.213.85.102",
-      "port": 19129
-    },
-    {
-      "name": "Thanh Pho Hoan My",
-      "ip": "112.213.85.101",
-      "port": 19129
-    }
+  "NAME": [
+    "Xu So Dieu Ky",
+    "Thanh Pho Hoan My",
+    "Thanh Pho Dieu Ky"
+  ],
+  "IP": [
+    "112.213.85.102",
+    "112.213.85.101"
+  ],
+  "PORT": [
+    19129,
+    19129
   ]
 }
