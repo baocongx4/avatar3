@@ -1,2 +1,2 @@
-# avatar3
-mod avatar 2x tab3
+# Avatar
+Server Avatar Mod
