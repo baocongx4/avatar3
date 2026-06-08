@@ -1,18 +1,14 @@
- {
-    "NAME": ["List Server", "Avatar 2K", "Avatar 2ME"],
-    "IP": ["112.213.85.102", "112.213.85.101"],
-    "PORT": [19128, 19129],
-    "dataUrls": [
-      "http://teamobi.com/srvips/avatar2.txt",
-      "http://trochoididong.us/srvips/avatar_C.txt"
-    ]
-  },
-  {
-    "names": [],
-    "ips": [],
-    "ports": [],
-    "dataUrls": [
-      "http://teamobi.com/srvips/avatarinterd2.txt",
-      "http://trochoididong.us/srvips/avatarinter_C.txt"
-    ]
-  }
+{
+  "servers": [
+    {
+      "name": "Xu So Dieu Ky",
+      "ip": "112.213.85.102",
+      "port": 19129
+    },
+    {
+      "name": "Thanh Pho Hoan My",
+      "ip": "112.213.85.101",
+      "port": 19129
+    }
+  ]
+}
